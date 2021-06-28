@@ -1,9 +1,6 @@
 My Music
 
-Energy,
-Mood,
-Vibes,
-Scenes, 
+Energy mood vibes scenes, 
 Local or foreign,
 Loud or soft,
 Played when alone,
@@ -12,7 +9,4 @@ Sometimes you're still and listen,
 Sometimes you move and dance,
 Sometimes popular,
 Sometimes not,
-Energy,
-Mood,
-Vibes,
-Scenes
+Energy mood vibes scenes
